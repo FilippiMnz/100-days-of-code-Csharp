@@ -1,0 +1,15 @@
+C:\Users\Jarvis\source\repos\ConvertAgeToDays\ConvertAgeToDays\bin\Debug\net7.0\ConvertAgeToDays.exe
+C:\Users\Jarvis\source\repos\ConvertAgeToDays\ConvertAgeToDays\bin\Debug\net7.0\ConvertAgeToDays.deps.json
+C:\Users\Jarvis\source\repos\ConvertAgeToDays\ConvertAgeToDays\bin\Debug\net7.0\ConvertAgeToDays.runtimeconfig.json
+C:\Users\Jarvis\source\repos\ConvertAgeToDays\ConvertAgeToDays\bin\Debug\net7.0\ConvertAgeToDays.dll
+C:\Users\Jarvis\source\repos\ConvertAgeToDays\ConvertAgeToDays\bin\Debug\net7.0\ConvertAgeToDays.pdb
+C:\Users\Jarvis\source\repos\ConvertAgeToDays\ConvertAgeToDays\obj\Debug\net7.0\ConvertAgeToDays.csproj.AssemblyReference.cache
+C:\Users\Jarvis\source\repos\ConvertAgeToDays\ConvertAgeToDays\obj\Debug\net7.0\ConvertAgeToDays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jarvis\source\repos\ConvertAgeToDays\ConvertAgeToDays\obj\Debug\net7.0\ConvertAgeToDays.AssemblyInfoInputs.cache
+C:\Users\Jarvis\source\repos\ConvertAgeToDays\ConvertAgeToDays\obj\Debug\net7.0\ConvertAgeToDays.AssemblyInfo.cs
+C:\Users\Jarvis\source\repos\ConvertAgeToDays\ConvertAgeToDays\obj\Debug\net7.0\ConvertAgeToDays.csproj.CoreCompileInputs.cache
+C:\Users\Jarvis\source\repos\ConvertAgeToDays\ConvertAgeToDays\obj\Debug\net7.0\ConvertAgeToDays.dll
+C:\Users\Jarvis\source\repos\ConvertAgeToDays\ConvertAgeToDays\obj\Debug\net7.0\refint\ConvertAgeToDays.dll
+C:\Users\Jarvis\source\repos\ConvertAgeToDays\ConvertAgeToDays\obj\Debug\net7.0\ConvertAgeToDays.pdb
+C:\Users\Jarvis\source\repos\ConvertAgeToDays\ConvertAgeToDays\obj\Debug\net7.0\ConvertAgeToDays.genruntimeconfig.cache
+C:\Users\Jarvis\source\repos\ConvertAgeToDays\ConvertAgeToDays\obj\Debug\net7.0\ref\ConvertAgeToDays.dll
